@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJod..."/>
+  <img src="https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJod..."/>
 </p>
 
 ---
