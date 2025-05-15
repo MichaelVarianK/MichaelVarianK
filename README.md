@@ -5,15 +5,7 @@
 
 ---
 
-### Let's Connect 🚀
-
-📧 Email → [michaelvariankostaman@gmail.com](mailto:kostamanmichael@gmail.com)  
-💼 LinkedIn → [Michael Kostaman](https://www.linkedin.com/in/michael-kostaman)  
-📸 Instagram → [@michaelvariank](https://www.instagram.com/michaelvariank)
-
----
-
-### 💻 Tech Stack:
+### 🛠️ Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -47,4 +39,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
 
+### 🌐 Where to find me
+
+📧 Email → [michaelvariankostaman@gmail.com](mailto:kostamanmichael@gmail.com)  
+💼 LinkedIn → [Michael Kostaman](https://www.linkedin.com/in/michael-kostaman)  
+📸 Instagram → [@michaelvariank](https://www.instagram.com/michaelvariank)
